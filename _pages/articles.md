@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Articles
-subtitle: Stuffs I write about
-desc: Stuffs I write about
+title: Taxidea
+subtitle: The blog of Victoria Badger
+desc: Notes from a busy life
+permalink: /blog/
 ---
-{% if paginator.page == 1 %}
-  {% for post in site.posts limit: 2 %}
-<link rel="prerender" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-  {% endfor %}
-{% endif %}
-
 <ul class="post-list">
-  {% for post in paginator.posts %}
+  {% for post in site.categories.blog %}
   <li class="post">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
       <h4 class="post-title">{{ post.title }}</h4>
@@ -33,16 +28,3 @@ desc: Stuffs I write about
   {% endfor %}
 </ul>
 <!-- post-list -->
-
-<ol class="pager">
-  {% if paginator.previous_page %}
-  <li class="pager-prev">
-    <a href="{{ paginator.previous_page_path }}">Previous</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="pager-next">
-    <a href="{{ paginator.next_page_path }}">Next</a>
-  </li>
-  {% endif %}
-</ol>
