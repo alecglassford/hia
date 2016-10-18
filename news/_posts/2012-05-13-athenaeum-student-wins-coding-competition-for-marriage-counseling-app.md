@@ -12,8 +12,8 @@ Her app, Couples Counselor (“I’m still working on the name”), allows both 
 
 ## Comments
 
-### Thomas
+### Thomas M.
 Cool idea, and of course it's great to see young people taking on ambitious new challenges. However. My girlfriend and I both downloaded the app and tried playing around with it. We haven't been having any issues with our relationship, but we thought it looked neat and were curious what kind of prompts it would give us. We both inputted information about our communication styles, our ages/other demographic details, and what the biggest difficulties of our relationship are (mostly talking about money and managing our joint finances). And then the app asked us to talk to each other about (in this order, no joke) our feelings about each other's religious practices, our sexual turn-ons and turn-offs, and our relationships with our parents. Maybe I'm missing some deep Freudian philosophy behind all this, but it seems to me like the algorithm might still need some fine-tuning. …
 
-### Alex
+### Alex J.
 My wife and I have been arguing a lot lately. I saw this app, and during our most recent fight, I suggested to her that we try downloading it. She went to stay at her friend's place. :(

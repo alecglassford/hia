@@ -19,3 +19,8 @@ My team at UW has been building tools of a similar nature for the workplace sett
 But what’s notable about Badger’s technology is that it brings computational relationship mediation not just into the workplace, but beyond, into our homes and most personal lives. In the near future, computers will be able to act not only as our real estate agents, lawyers, and nurses, but also our therapists, parenting experts, and gateways to every aspect of our social lives.
 
 Computers will not solve all of humanity’s problems, but they can help with many of them. The minutia of our interpersonal connections may be their final frontier.
+
+## Comments
+
+### Lisa T.
+Another blustery academic who thinks he knows exactly what the future will hold. The innovation here is that in addition to telling us how technology will "change our lives," he also seems to think he's so intellectually entitled that he can throw around deep-sounding but meaningless words like "technophilosophical." He can shit out this garbage all day, but all our time would be better spent if he went back to his dull scheduling software and got back to us if it ever starts getting real results.
