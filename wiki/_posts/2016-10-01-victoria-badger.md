@@ -2,7 +2,7 @@
 title: Victoria Badger
 desc: _
 ---
-[...]
+**Victoria Badger** (born October 5, 1994) is the founder and CEO of Sorella, a tech company that provides advice and mentorship to young people.
 
 ## Early Life
 
