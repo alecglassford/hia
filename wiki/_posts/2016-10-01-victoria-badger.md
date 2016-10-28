@@ -10,6 +10,6 @@ Badger was born in San Jose in 1994. Her mother, Nancy, and father, Morris, both
 
 For high school, she attended the Athenaeum, an all-girls boarding school in Washington that she did not enjoy. Badger has described these years as "truly the nadir of my brief life so far … four wet, hellish years in the most pseudo-intellectual, new-agey environment imaginable."
 
-Badger returned to the Bay Area in 2013 to study computer science at Stanford University, before dropping out after 2 years to start [name of company].
+Badger returned to the Bay Area in 2013 to study computer science at Stanford University, before dropping out in her second year to start Sorella, which had began as a summer research project.
 
 [...]
