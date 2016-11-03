@@ -8,8 +8,22 @@ Party Fowl, a chatbot that interacts through multiple services, messages users t
 
 "We are living in a world of abundant choice," Party Fowl CEO Marcus Pim said at the company's launch party in Golden Gate Park. "Party Fowl is here to help people make the best possible choices to fill their lives with joyful and fulfilling experiences."
 
-The company is currently operating on at $50 million investment from Calico Bletchley, but Pim revealed the long-term plan is to monetize by building in opportunities for sponsors for their events to be recommended more frequently.
+The company is currently operating primarily on at $10 million investment from Calico Bletchley, but Pim revealed the long-term plan is to monetize by building in opportunities for sponsors for their events to be recommended more frequently.
 
 "People today crave experiences over products," Pim said, "and companies know that experiences are the best way way to reach consumers. This applies if you're a musician and you want fans to come to your show, but we can also see it in action if we imagine a sports drink company recommending you go play a game of pick-up soccer with some buddies."
 
 Party Fowl is available for free on most messaging platforms now.
+
+## Comments
+
+### Lisa T
+
+Sounds very cool, and I'll definitely be giving it a try. Not sure why this is worth so much money though.. seems like a pretty niche thing.
+
+### Larry L
+
+Nathan A: Why is this any different from the advertising that we are already bombarded with day to day? You say you don't want corporations telling you what to do, but that's the state of the world right now. Every corner of the web, whenever you're on the phone—advertisements are everywhere. Maybe it sucks to some extent, but we've all just got to suck it up and deal with it at this point. That's the way things work. On the contrary to what you've said, it's actually refreshing that this company seems to have a clear plan to make money. When it comes down to it, that's what it's all about for these companies, yet so many startups these days don't have any grasp of that.
+
+### Nathan A
+
+The model of advertising mentioned sounds pretty creepy. They had better be clear about distinguishing what's being paid for by sponsors or not. I don't want corporations sneakily telling me what to do like that. Not sure I'd be down even if they were clearly marked.
