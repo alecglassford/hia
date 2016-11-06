@@ -40,7 +40,7 @@ We change and go to an early dinner at our family friends', Chris and Jean. Chri
 
 At this point, I spend at least half an hour giving the talking points of my life to all these people that I see precisely once a year and who are always certain, of course, that I've grown so much. This year, one of the empty-nester couples' daughter had a baby, and they flew in from Chicago, so the attention that seems to attach itself to the youngest person in the room in these situations moved away from me for once.
 
-Then we eat. Each family always brings the same dish every year. My family: pear salad. The new grandparents: green beans. The mysterious quiet woman: this ridiculously good homemade pumpkin pie. Jean makes mashed potatoes and turkey, but this year, they are in the middle of a vegetarian experiment because Chris has been having heart problems, so she made this crazy quinoa-stuffed butternut squash instead of turkey. Everyone commented effusively about how it was just as good.
+Then we eat. Each family always brings the same dish every year. My family: pear salad. The new grandparents: green beans. The mysterious quiet woman: this ridiculously good homemade pumpkin pie. Jean makes mashed potatoes and turkey, but this year, they are in the middle of a vegetarian experiment because Chris has been having heart problems, so she made this crazy quinoa-stuffed butternut squash instead of turkey. Everyone commented effusively[^13] about how it was just as good.
 
 And after the pie, home. My parents pass out almost immediately, even though it's usually only like 8 o'clock. And I get cozy in my childhood bed and stare at my computer for a couple of hours, doing whatever computer thing I feel that I have to do (this year: beginning a blog post). But I don't know why I'm even explaining this part. As nostalgic as it makes me (between the eye-rolls) to examine my dad's little rituals,  I am not very interested in thinking about my own life through the lens of tradition.
 
@@ -56,3 +56,4 @@ And after the pie, home. My parents pass out almost immediately, even though it'
 [^10]: His name was Goddard, which, you know: obviously a reference to the rocket scientist. But as a kid, I always thought my parents had ripped the name off from Jimmy Neutron. I feel bad about this now, but Goddard and I did not get along.
 [^11]: This year, I finally had something to say to this. When I was at boarding school, I pretty much didn't want to talk about anything.
 [^12]: (And a Few Token Women)
+[^13]: I might even say saccharinely, fawningly, unconvincingly …
