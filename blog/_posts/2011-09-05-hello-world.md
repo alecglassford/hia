@@ -1,5 +1,5 @@
 ---
-title: Hello, world.,
+title: Hello, world.
 desc: Oh what am I getting myself into?
 ---
 School tomorrow. First day of junior year. I got into SeaTac airport this morning (too early) and the school shuttle picked up around 10 of us out-of-towners and drove us two hours through traffic, then not-traffic to this intermittent "home." Jenny was on the bus, so we sat together and chatted about our summers for about 10 minutes, and then retreated to our phones for rest of the time. We have a good quiet understanding, I think, which is why I wanted to room with her again. No arguments. Not like freshman year, oh god, but this is not the place to discuss she-who-must-not-be-named.
