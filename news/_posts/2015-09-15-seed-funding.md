@@ -4,7 +4,7 @@ desc: By Cynthia Bernstein
 ---
 San Francisco venture capital firm Calico Bletchley has invested $2 million in a chatbot startup founded by a 21-year-old Stanford undergraduate. The company is building a chatbot, named "Sorella," designed to provide guidance of every variety to young people.
 
-"Our target is teenagers and college-aged twenty-somethings," Sorella founder and CEO Victorai Badger said. "They can talk to Sorella about just about anything on their minds and she'll give them advice of every variety—whether that's academic or personal or professional or whatever."
+"Our target is teenagers and college-aged twenty-somethings," Sorella founder and CEO Victoria Badger said. "They can talk to Sorella about just about anything on their minds and she'll give them advice of every variety—whether that's academic or personal or professional or whatever."
 
 Badger described the bot as a "one-stop shop" for teens looking to navigate adolescence. "By focusing so narrowly on our audience, we can broaden the scope of the subject matter we tackle and the utility we provide to our users."
 
